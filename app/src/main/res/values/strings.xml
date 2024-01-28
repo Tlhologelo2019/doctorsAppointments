@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="total_cost_r1398">Total Cost: R1398</string>
+    <string name="_00_00">00:00</string>
+    <string name="_27_06_2023">27/06/2023</string>
+    <string name="select_delivery_time">Select Delivery Time</string>
+    <string name="select_deliver_date">Select Deliver Date</string>
+    <string name="back">BACK</string>
+    <string name="checkout">CHECKOUT</string>
+    <string name="hi_nhello">Hi \nHello</string>
+    <string name="lab_test_cart_item">Lab Test Cart Item</string>
+    <string name="deliver_location_pretoria">Deliver Location: Pretoria</string>
+    <string name="_24_7_healthcare">24/7 HEALTHCARE</string>
+    <string name="address">Address</string>
+    <string name="full_name">Full Name</string>
+    <string name="pin_code">Pin Code</string>
+    <string name="contact_number">Contact Number</string>
+    <string name="book">BOOK</string>
+</resources>
